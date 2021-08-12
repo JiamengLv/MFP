@@ -1,0 +1,1 @@
+['[0] Loss_errG: 55841.6289  Loss_idt: 55840.3438  ', '[5] Loss_errG: 54896.2188  Loss_idt: 54894.9297  ', '[10] Loss_errG: 54896.0508  Loss_idt: 54894.9102  ', '[15] Loss_errG: 55841.4219  Loss_idt: 55840.2734  ']
